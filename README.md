@@ -1,7 +1,7 @@
 For Developers
 ============
 
-You can also see [Java](https://github.com/StarlangSoftware/SentimentAnalysis) repository.
+You can also see [Java](https://github.com/StarlangSoftware/SentimentAnalysis) or [C++](https://github.com/StarlangSoftware/SentimentAnalysis-CPP) repository.
 
 ## Requirements
 
